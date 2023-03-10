@@ -9,4 +9,8 @@ Long format
 with user and group IDs displayed numerically
 And hidden files (starting with .)
 
-Create a script that creates a directory 
+Create a script that creates a directory
+
+Move the file betty from /tmp/ to /tmp/my_first_directory.
+
+ 
